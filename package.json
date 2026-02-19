@@ -9,7 +9,7 @@
     "postinstall": "npm run client-install && npm run client-build"
   },
   "dependencies": {
-    "express": "^4.22.1",
-    "cors": "^2.8.6"
+    "cors": "^2.8.6",
+    "express": "^4.22.1"
   }
 }
